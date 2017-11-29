@@ -17,7 +17,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'rails_12factor', '~> 0.0.3'
 gem 'devise', '~> 4.2'
 gem 'jquery-rails'
+gem "twitter-bootstrap-rails"
 gem 'bootstrap', '~> 4.0.0.beta2.1'
+gem 'devise-bootstrap-views'
 # gem 'bcrypt', '~> 3.1.7'
 
 
